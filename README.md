@@ -536,8 +536,3 @@ Regression testing — проверяется то, что исправлени�
 <br>
 Источники: <a href="http://www.protesting.ru/" rel="nofollow noopener noreferrer">www.protesting.ru</a>, <a href="http://bugscatcher.net/" rel="nofollow noopener noreferrer">bugscatcher.net</a>, <a href="http://qalight.com.ua/" rel="nofollow noopener noreferrer">qalight.com.ua</a>, <a href="https://thinkingintests.wordpress.com" rel="nofollow noopener noreferrer">thinkingintests.wordpress.com</a>, книга ISTQB, <a href="http://www.quizful.net/" rel="nofollow noopener noreferrer">www.quizful.net</a>, <a href="http://bugsclock.blogspot.com/" rel="nofollow noopener noreferrer">bugsclock.blogspot.com</a>, <a href="http://www.zeelabs.com/" rel="nofollow noopener noreferrer">www.zeelabs.com</a>, <a href="http://devopswiki.net/" rel="nofollow noopener noreferrer">devopswiki.net</a>, <a href="http://hvorostovoz.blogspot.com/" rel="nofollow noopener noreferrer">hvorostovoz.blogspot.com</a>.<br>
 <br>
-Ресурсы рекомендованные: istqbexamcertification.com <a href="http://www.testingexcellence.com" rel="nofollow noopener noreferrer">www.testingexcellence.com</a></div>
-      
-    </div>
-
-    
