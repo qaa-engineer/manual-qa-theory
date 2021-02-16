@@ -1,8 +1,3 @@
-
-
-    <div class="post__body post__body_full">
-      <div class="post__text post__text-html post__text_v1" id="post-content-body">Н<br>
-<br>
 Ниже основы основ для повторения перед собеседованием для Trainee and Junior: определение тестирования, <strong>качество</strong>, <strong>верификация / валидация</strong>, цели, этапы, тест план, пункты тест плана, тест дизайн, техники тест дизайна, <strong>traceability matrix</strong>, test case, чек-лист, дефект, <strong>error/deffect/failure</strong>, баг репорт, severity vs priority, уровни тестирования, виды / типы, <strong>подходы к интеграционному тестированию</strong>, принципы тестирования, статическое и динамическое тестирование, исследовательское / ad-hoc тестирование, требования, жизненный цикл бага, стадии разработки ПО, decision table, qa/qc/test engineer, диаграмма связей.<br>
 <br>
 <a name="habracut"></a><br>
