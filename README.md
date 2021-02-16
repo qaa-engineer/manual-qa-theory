@@ -1,30 +1,7 @@
-<div class="post__wrapper">
-    <header class="post__meta">
-        <a href="https://habr.com/ru/users/Gennadii_M/" class="post__user-info user-info" title="Автор публикации">
-            <img src="//habrastorage.org/getpro/habr/avatars/5bb/54f/3c5/5bb54f3c5dc3c3736278ee54a92e8428.jpg" width="24" height="24" class="user-info__image-pic user-info__image-pic_small">
-          <span class="user-info__nickname user-info__nickname_small">Gennadii_M</span>
-        </a>
 
-      <span class="post__time" data-time_published="2016-03-17T11:52Z">17 марта 2016 в 14:52</span>
-
-      
-    </header>
-
-    <h1 class="post__title post__title_full">
-      <span class="post__title-text">Тестирование. Фундаментальная теория</span>
-    </h1>
-
-
-      <ul class="post__hubs post__hubs_full-post inline-list">
-          <li class="inline-list__item inline-list__item_hub">
-            <a href="https://habr.com/ru/hub/it_testing/" class="inline-list__item-link hub-link " title="Вы не подписаны на этот хаб" onclick="if (typeof ga === 'function') { ga('send', 'event', 'hub', 'post page', 'Тестирование IT-систем'); }">Тестирование IT-систем</a>
-          </li>
-      </ul>
-
-    <ul class="post__marks inline-list"><li class="inline-list__item inline-list__item_post-type"><span class="post__type-label" title="Обучающий материал">Tutorial</span></li></ul>
 
     <div class="post__body post__body_full">
-      <div class="post__text post__text-html post__text_v1" id="post-content-body">Недавно был на собеседовании на Middle QA на проект, который явно превышает мои возможности. Уделил много времени тому, чего не знал вообще и мало времени повторению простой теории, а зря. <br>
+      <div class="post__text post__text-html post__text_v1" id="post-content-body">Н<br>
 <br>
 Ниже основы основ для повторения перед собеседованием для Trainee and Junior: определение тестирования, <strong>качество</strong>, <strong>верификация / валидация</strong>, цели, этапы, тест план, пункты тест плана, тест дизайн, техники тест дизайна, <strong>traceability matrix</strong>, test case, чек-лист, дефект, <strong>error/deffect/failure</strong>, баг репорт, severity vs priority, уровни тестирования, виды / типы, <strong>подходы к интеграционному тестированию</strong>, принципы тестирования, статическое и динамическое тестирование, исследовательское / ad-hoc тестирование, требования, жизненный цикл бага, стадии разработки ПО, decision table, qa/qc/test engineer, диаграмма связей.<br>
 <br>
@@ -564,30 +541,8 @@ Regression testing — проверяется то, что исправлени�
 <br>
 Источники: <a href="http://www.protesting.ru/" rel="nofollow noopener noreferrer">www.protesting.ru</a>, <a href="http://bugscatcher.net/" rel="nofollow noopener noreferrer">bugscatcher.net</a>, <a href="http://qalight.com.ua/" rel="nofollow noopener noreferrer">qalight.com.ua</a>, <a href="https://thinkingintests.wordpress.com" rel="nofollow noopener noreferrer">thinkingintests.wordpress.com</a>, книга ISTQB, <a href="http://www.quizful.net/" rel="nofollow noopener noreferrer">www.quizful.net</a>, <a href="http://bugsclock.blogspot.com/" rel="nofollow noopener noreferrer">bugsclock.blogspot.com</a>, <a href="http://www.zeelabs.com/" rel="nofollow noopener noreferrer">www.zeelabs.com</a>, <a href="http://devopswiki.net/" rel="nofollow noopener noreferrer">devopswiki.net</a>, <a href="http://hvorostovoz.blogspot.com/" rel="nofollow noopener noreferrer">hvorostovoz.blogspot.com</a>.<br>
 <br>
-Ресурсы рекомендованные в комментах Sofiya Novachenko: istqbexamcertification.com <a href="http://www.testingexcellence.com" rel="nofollow noopener noreferrer">www.testingexcellence.com</a></div>
+Ресурсы рекомендованные: istqbexamcertification.com <a href="http://www.testingexcellence.com" rel="nofollow noopener noreferrer">www.testingexcellence.com</a></div>
       
     </div>
 
     
-
-    <dl class="post__tags">
-      <dt class="post__tags-label">Теги:</dt>
-      <dd class="post__tags-list">    <ul class="inline-list inline-list_fav-tags js-post-tags">
-        <li class="inline-list__item inline-list__item_tag"><a href="https://habr.com/ru/search/?q=%5Btesting%5D&amp;target_type=posts" rel="tag" class="inline-list__item-link post__tag  ">testing</a></li>
-    </ul>
-    <button type="button" class="btn btn_outline_grey btn_mini hidden js-fav-edit-link" data-type="2" data-id="279535" onclick="show_edit_tags(this)">Добавить метки</button>
-</dd>
-    </dl>
-      <dl class="post__tags">
-        <dt class="post__tags-label">Хабы:</dt>
-        <dd class="post__tags-list">
-          <ul class="inline-list inline-list_fav-tags js-post-hubs">
-              <li class="inline-list__item inline-list__item_tag">
-                <a href="https://habr.com/ru/hub/it_testing/" rel="tag" class="inline-list__item-link post__tag">
-                  Тестирование IT-систем
-                </a>
-              </li>
-          </ul>
-        </dd>
-      </dl>
-  </div>
